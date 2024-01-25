@@ -1,5 +1,4 @@
 ### Hi there 👋
-### Shifeng Qu is here, 为了 Github student pack 也是拼了
 <!--
 **shifengqu/shifengqu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
